@@ -1,5 +1,6 @@
 # About
 
+Using google Books API you can search for a book franchise you enjoy and get information about the book name, book genre and book description.
 
 # Getting Started with Create React App
 
