@@ -2,6 +2,10 @@
 
 Using google Books API you can search for a book franchise you enjoy and get information about the book name, book genre and book description.
 
+#Tech 
+
+React, CSS, Axios, Google Books API
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
