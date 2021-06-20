@@ -1,0 +1,85 @@
+:root{
+    --buttonColor:#669966;
+    --secondaryColor:#515a48;
+    --mainText:#fff;
+    --borderColor: #c1c1c1;
+
+}
+
+#bookContainer{
+    padding-bottom: 50px;
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+    padding-left: 50px;
+    background-color: var(--secondaryColor);
+    color: var(--mainText);
+
+    /* border-radius: 5px 5px 0 0; */
+    border-top: 1px solid var(--borderColor);
+}
+
+#searchContainer{
+    background-color: var(--buttonColor);
+    padding-top: 25px;
+    padding-bottom: 25px;
+    color: var(--mainText)
+
+}
+
+#searchContainer h1{
+    padding-bottom: 20px;
+    margin: 0%;
+
+}
+
+#textContainer{
+    text-align: left;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+#mainContainer{
+    background-color: var(--secondaryColor);
+
+}
+
+#mainContainer h1{
+    color: var(--mainText)
+
+}
+
+#textContainer a{
+    color: white;
+}
+
+#searchContainer button{
+    margin-left: 40px;
+    border: none;
+    height: 35px;
+    width: 55px;
+    background-color: rgba(0,0,0,0.25);
+    color: #FFF;
+
+
+}
+
+#searchContainer button:hover {
+    background-color: rgba(114, 195, 7, 0.25);
+}
+
+#searchContainer input{
+    display: inline-block;
+    color: #FFF;
+    padding: 10px;
+    width: 250px;
+    box-sizing: border-box;
+    background-color: rgba(0,0,0,0.25);
+    border: none;
+    border-radius: 2px;
+    margin: 10px auto;
+}
+
+form span{
+    padding-right: 40px;
+}
