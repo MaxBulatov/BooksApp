@@ -2,7 +2,7 @@
 
 Using google Books API you can search for a book franchise you enjoy and get information about the book name, book genre and book description.
 
-#Tech 
+# Tech 
 
 React, CSS, Axios, Google Books API
 
