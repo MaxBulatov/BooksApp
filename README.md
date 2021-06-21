@@ -4,7 +4,7 @@ Using google Books API you can search for a book franchise you enjoy and get inf
 
 # Demo
 
-https://user-images.githubusercontent.com/35911957/122705757-36280e00-d20b-11eb-9ab1-726c346d4623.mp4
+
 
 # Tech 
 
